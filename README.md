@@ -1,2 +1,3 @@
 # econ-research-paper
-i'll make this a cooler title once i figure out what i'm doing :p
+
+Microeconomics #3: The Impact of Marital Status on the Labor Force Composition: a case of the Dutch Economy
